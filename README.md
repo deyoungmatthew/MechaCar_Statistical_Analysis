@@ -1,3 +1,7 @@
+# Purpose
+
+The purposed of the analysis is to be able to predict MPG for MechaCar prototypes based on variables supplied in the data set.  We will also be creating summary statistics and running t-tests on suspension coils lots to determine if they meet design specifications.
+
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict MPG
@@ -40,4 +44,17 @@ Unfortunately, lot 3's psi mean is statistically different from the population m
 ![lot 3 ttest](https://user-images.githubusercontent.com/78942457/120944902-f0e0e800-c704-11eb-9cff-1a4fd79333f8.PNG)
 
 
+## Study Design: MechaCar vs Competition
 
+The metric I would test to compare the MechaCar to the competition would be life time maintenance costs.  The metrics I would test is total maintenance costs, miles driven, size of engine, automatic or manual transmission, electric versus gas engines.
+
+### Null Hypothesis
+
+MechaCars are more expensive per mile to maintain compared to the competition due to the types of transmissions and engines used.
+
+### Statistical Tests To Be Used
+
+First it would have to be determine overall how much the maintenance costs are per mile for both MechaCar and the competition.  We would then use an ANOVA test as we would have one dependent variable and multiple independent variables such as engine type, engine size, and transmission type all of which of categorical types.
+
+### Data needed to run the statistical test
+We would need life time maintenance costs, miles driven, engine size, engine type, transmission type.
