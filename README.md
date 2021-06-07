@@ -5,7 +5,7 @@ The purpose of the analysis is to be able to predict MPG for MechaCar prototypes
 # MechaCar_Statistical_Analysis
 
 ## Linear Regression to Predict MPG
-* The variables that provided a non-random amount of variance to the mpg values in the datset are: spoiler angle, ground clearance, and whether the vehicle was all wheel drive (AWD).  This is determined by the fact that they each had p-values higher than .05.
+The variables that provided a non-random amount of variance to the mpg values in the datset are: spoiler angle, ground clearance, and whether the vehicle was all wheel drive (AWD).  This is determined by the fact that they each had p-values higher than .05.
 
 ![MPG LM](https://user-images.githubusercontent.com/78942457/120943989-36e77d00-c700-11eb-92af-14a50224c466.PNG)
 
