@@ -1,6 +1,6 @@
 # Purpose
 
-The purposed of the analysis is to be able to predict MPG for MechaCar prototypes based on variables supplied in the data set.  We will also be creating summary statistics and running t-tests on suspension coils lots to determine if they meet design specifications.
+The purpose of the analysis is to be able to predict MPG for MechaCar prototypes based on variables supplied in the data set.  We will also be creating summary statistics and running t-tests on suspension coils lots to determine if they meet design specifications.
 
 # MechaCar_Statistical_Analysis
 
